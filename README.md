@@ -8,11 +8,6 @@
 
 - 💬 在 [这里]提问任何事情！(https://github.com/Vanadiry/Vanadiry/issues)
 
-
-
-**!**  
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanadiry&show_icons=true&theme=radical)
 
 
