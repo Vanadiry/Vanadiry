@@ -10,11 +10,10 @@
 
 
 
-**另一些...**  
+**!**  
 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanadiry&show_icons=true&theme=radical) | <a href="https://github.com/Vanadiry/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanadiry&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanadiry&show_icons=true&theme=radical)
 
 
 **和网站相关的内容**
