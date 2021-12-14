@@ -6,7 +6,7 @@
 
 - 呐呐呐（？
 
-- 💬 在 [这里]提问任何事情！(https://github.com/Vanadiry/Vanadiry/issues)
+- 💬 在 [这里](https://github.com/Vanadiry/Vanadiry/issues)提问任何事情！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanadiry&show_icons=true&theme=radical)
 
