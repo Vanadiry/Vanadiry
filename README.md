@@ -1,15 +1,18 @@
 **关于我**
 
-- 是学生><
+- 🇨🇳学生，在中国，使用中文，正在学习日语、英语><
 
-- 在学习一些代码相关的内容
+- 📚在学习一些代码相关的内容
 
-- 呐呐呐（？
+- 🎈呐呐呐（？
 
-- 💬 在 [这里](https://github.com/Vanadiry/Vanadiry/issues)提问任何事情！
+- 💬 在 [这里](https://github.com/Vanadiry/Vanadiry/issues)提问任何事情！请尽量使用中文，其他的语言我会尽量翻译
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanadiry&show_icons=true&theme=radical)
 
+- ⚠️非程序员，仅仅是出于兴趣而学习，今后的发展方向或许与此相关
+
+- 🔮如果你认识我，又看到了这段话，请通过我的其它联系方式联系我
 
 **和网站相关的内容**
 
