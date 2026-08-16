@@ -1,6 +1,6 @@
 ## Hi, I'm Vanadiry 👋
 
-我的博客：[Vanadiry 魔法屋](https://magic.vanadiry.com)
+我的博客：[Vanadiry 魔法屋](https://vanadiry.com)
 
 ### GitHub档案
 
